@@ -6,3 +6,5 @@ lenguaje dart flutter, nivel principiante, haremos esta pantalla fondo color bla
 
 ## MI DISEÑO
 ![alt text](image-1.png)
+<img width="276" height="534" alt="image" src="https://github.com/user-attachments/assets/478ff441-1d41-4e9c-80a3-8a621225a522" />
+<img width="1223" height="550" alt="image" src="https://github.com/user-attachments/assets/1a525c1b-623d-40cf-a711-14b9167072ea" />
